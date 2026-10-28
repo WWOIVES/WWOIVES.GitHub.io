@@ -2,8 +2,8 @@
 "servers": [
 {
 "name": "WWOIVES",
-"address": "https://anisette-v3-server-tu27.onrender.com/"
-
+"address": "https://anisette-v3-server-wcvu.onrender.com/"
+"kind": 0
 }
 ]
 }
